@@ -498,15 +498,15 @@ const messages = [
 ];
 
 const names = [
-    'SANTOS',
-    'amirali sami',
-    'نازنین',
-    'هاکان ✌️',
+    'Reza',
     'مهدی',
-    'علی رضایی',
-    'یاس',
-    'میلاد',
-    'هدیه'
+    'Armin 🔥',
+    'سینا',
+    'Morteza',
+    'Amir ⚡',
+    'کیان',
+    'David 😎',
+    'محمدرضا ❤️'
 ];
 function chat(){
     const chatContainer = document.querySelector('.messageBox');
